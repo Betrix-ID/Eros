@@ -1,0 +1,4 @@
+com.tencent.ig
+skynet.cputhrottlingtest
+com.mobile.legends
+com.kurogame.wutheringwaves.samsung
